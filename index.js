@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function (){
-    alert('Me encanto conocerte y espero seguir haciendolo, nos vemos el viernes ♥♥')
+    alert('Me encanto conocerte y este tiempo que hemos estado saliendo ha sido muy bonito ( ˘⌣˘)♡(˘⌣˘ ), nos vemos el viernes ♥♥')
 });
 
 const noBtn = document.querySelector('#noBtn');
